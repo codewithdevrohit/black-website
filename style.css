@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#hero{
+    background-image: url(./ai-generated-8012676_1280.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100% !important;
+    height: 100vh !important;
+}
+a {
+    color: black !important;
+}
+
+a:hover{
+    color: red !important;
+}
+
+#hero .row input{
+    background-color: yellow;
+    color: white;
+}
+
+#services .row .col i{
+    font-size: 3rem !important;
+    color: yellow;
+}
+
+#portfolio .practice .col{
+    width: 100% !important;
+    height: 100vh !important;
+    margin: 3rem !important;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#portfolio .col img:hover{
+    color: yellow;
+}
+
+.practice .card{
+    display: flex;
+    justify-content: space-between !important;
+}
+
+
+#about .row img{
+    border-radius: 50% !important;
+    width: 10rem !important;
+}
+
+#team .row img{
+    border-radius: 50% !important;
+    width: 10rem;
+}
+
+#contactus{
+    background-image: url("https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+#team img{
+    size: 10 rem;
+    
+}
